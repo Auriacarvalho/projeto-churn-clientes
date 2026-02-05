@@ -1,0 +1,11 @@
+cliente_id,plano,tempo_contrato,valor_mensal,churn
+1,Básico,2,79.9,Sim
+2,Premium,24,129.9,Não
+3,Básico,1,69.9,Sim
+4,Intermediário,12,99.9,Não
+5,Básico,3,79.9,Sim
+6,Premium,36,149.9,Não
+7,Intermediário,6,89.9,Sim
+8,Básico,1,69.9,Sim
+9,Premium,18,129.9,Não
+10,Intermediário,9,99.9,Não
