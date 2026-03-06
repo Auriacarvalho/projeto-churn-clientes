@@ -25,6 +25,7 @@ Principais insights obtidos:
 *(Adicione gráficos e prints dos notebooks aqui para enriquecer o README)*
 ## Imagem do projeto
 https://github.com/Auriacarvalho/projeto-churn-clientes/blob/main/notebooks/Captura%20de%20tela_6-3-2026_145718_github.com.jpeg
+https://github.com/Auriacarvalho/projeto-churn-clientes/blob/main/notebooks/Captura%20de%20tela_6-3-2026_145733_github.com.jpeg
 
 ## ⚙️ Como Executar
 1. Clone este repositório:  
